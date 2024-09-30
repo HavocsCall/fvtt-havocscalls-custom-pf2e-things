@@ -1,0 +1,105 @@
+{
+  "id": "fvtt-havocscalls-custom-pf2e-things",
+  "title": "HavocsCall's Custom PF2E Things",
+  "description": "Just some of my custom PF2E things.",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": 12,
+    "verified": 12
+  },
+  "authors": [
+    {
+      "name": "HavocsCall",
+      "url": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things",
+      "discord": "havocscall"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/download/latest/system.json",
+        "compatibility": {
+          "minimum": "6.0.0",
+          "verified": "6.4.1"
+        }
+      }
+    ]
+  },
+  "packFolders": [
+    {
+      "name": "HavocsCall's Custom PF2E Things",
+      "sorting": "m",
+      "packs": [
+        "havocscall-custom-actors",
+        "havocscall-custom-items",
+        "havocscall-custom-journals",
+        "havocscall-custom-macros",
+        "havocscall-custom-scenes"
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "havocscall-custom-actors",
+      "label": "HavocsCall Custom Actors",
+      "path": "packs/havocscall-custom-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "havocscall-custom-items",
+      "label": "HavocsCall Custom Items",
+      "path": "packs/havocscall-custom-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "havocscall-custom-journals",
+      "label": "HavocsCall Custom Journals",
+      "path": "packs/havocscall-custom-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "havocscall-custom-macros",
+      "label": "HavocsCall Custom Macros",
+      "path": "packs/havocscall-custom-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "havocscall-custom-scenes",
+      "label": "HavocsCall Custom Scenes",
+      "path": "packs/havocscall-custom-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/blob/main/LICENSE",
+  "readme": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/blob/main/README.md"
+}

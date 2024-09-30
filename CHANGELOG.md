@@ -3,19 +3,20 @@
 ### Spells
 - Protector Tree
 
+
 # 1.0.0
-## Actors
+### Actors
 Protector Tree
-## Items
-### Auras
+### Items
+#### Auras
 - Aura: Bane
 - Aura: Root Reading
-### Effects
+#### Effects
 - Effect: Root Reading
 - Effect: Weapon Infusion
-### Features
+#### Features
 - Weapon Infusion
-### Spells
+#### Spells
 - Bane
 - Lingering Composition
 - Root Reading

@@ -101,5 +101,6 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/blob/main/LICENSE",
-  "readme": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/blob/main/README.md"
+  "readme": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/blob/main/README.md",
+  "changelog": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/blob/main/CHANGELOG.md"
 }

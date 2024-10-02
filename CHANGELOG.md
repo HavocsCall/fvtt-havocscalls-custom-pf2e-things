@@ -1,10 +1,12 @@
 # 1.0.1
+## Added
 ### Items
 #### Spells
 - Protector Tree
-
+---
 
 # 1.0.0
+## Added
 ### Actors
 - Protector Tree
 ### Items
@@ -20,3 +22,4 @@
 - Bane
 - Lingering Composition
 - Root Reading
+---

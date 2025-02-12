@@ -1,3 +1,16 @@
+# 1.0.2
+## Added
+### Items
+#### Abilities
+- Belch Smoke
+#### Effects
+- Spell Effect: Eat Fire
+#### Spells
+- Eat Fire
+### Macros
+- Whisper to Player(s)
+---
+
 # 1.0.1
 ## Added
 ### Items

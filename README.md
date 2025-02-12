@@ -13,21 +13,27 @@ https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/releases/lates
 ### Actors
 - Protector Tree
 ### Items
+#### Abilities
+- Belch Smoke
 #### Auras
 - Aura: Bane
 - Aura: Root Reading
 #### Effects
-- Effect: Root Reading
+- Spell Effect: Eat Fire
+- Spell Effect: Root Reading
 - Effect: Weapon Infusion
 #### Features
 - Weapon Infusion
+### Macros
+- Whisper to Player(s)
 #### Spells
 - Bane
+- Eat Fire
 - Lingering Composition
 - Protector Tree
 - Root Reading
-## FAQ
 
+## FAQ
 #### Will you add X, Y, and Z?
 
 Right now, I am only adding things that I have run into through my campaigns. If you would like something specific, ask. I might be able to help.

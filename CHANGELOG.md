@@ -1,3 +1,10 @@
+# 1.1.0
+## Added
+### Custom Tables Pack
+#### Tables
+- NPC Traits
+---
+
 # 1.0.4
 ## Added
 ### Items
@@ -10,6 +17,7 @@
 ### Macros
 - Whisper to Player(s)
 ---
+
 # 1.0.3
 I'm dumb and don't know how to use Github actions
 ---

@@ -4,14 +4,15 @@
   "description": "Just some of my custom PF2E things.",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": 12,
-    "verified": 12
+    "minimum": "12",
+    "verified": "12"
   },
   "authors": [
     {
       "name": "HavocsCall",
       "url": "https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things",
-      "discord": "havocscall"
+      "discord": "havocscall",
+      "flags": {}
     }
   ],
   "relationships": {
@@ -37,7 +38,9 @@
         "havocscall-custom-journals",
         "havocscall-custom-macros",
         "havocscall-custom-scenes"
-      ]
+      ],
+      "color": null,
+      "folders": []
     }
   ],
   "packs": [
@@ -46,55 +49,66 @@
       "label": "HavocsCall Custom Actors",
       "path": "packs/havocscall-custom-actors",
       "type": "Actor",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "havocscall-custom-items",
       "label": "HavocsCall Custom Items",
       "path": "packs/havocscall-custom-items",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "havocscall-custom-journals",
       "label": "HavocsCall Custom Journals",
       "path": "packs/havocscall-custom-journals",
       "type": "JournalEntry",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "havocscall-custom-macros",
       "label": "HavocsCall Custom Macros",
       "path": "packs/havocscall-custom-macros",
       "type": "Macro",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "havocscall-custom-scenes",
       "label": "HavocsCall Custom Scenes",
       "path": "packs/havocscall-custom-scenes",
       "type": "Scene",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
+    },
+    {
+      "name": "havocscall-custom-tables",
+      "label": "HavocsCall Custom Tables",
+      "path": "packs/havocscall-custom-tables",
+      "type": "RollTable",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "#{URL}#",

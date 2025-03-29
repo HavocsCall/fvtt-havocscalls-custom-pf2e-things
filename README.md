@@ -32,6 +32,9 @@ https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/releases/lates
 - Lingering Composition
 - Protector Tree
 - Root Reading
+#### Tables
+- NPC Traits
+---
 
 ## FAQ
 #### Will you add X, Y, and Z?

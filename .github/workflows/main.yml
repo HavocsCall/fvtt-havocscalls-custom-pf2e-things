@@ -30,7 +30,7 @@ jobs:
           DOWNLOAD: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip
           
       - name: Create Module Archive
-        run: zip -r packs/ CHANGELOG.md LICENSE.md ./module.zip module.json README.md
+        run: zip -r ./module.zip packs/ CHANGELOG.md LICENSE.md module.json README.md
 
       - name: Update Release With Files
         id: create_version_release

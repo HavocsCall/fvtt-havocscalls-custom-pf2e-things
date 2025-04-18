@@ -1,3 +1,7 @@
+# 1.1.2
+We're back to not knowing how to use Github Actions
+---
+
 # 1.1.1
 ## Added
 ### Items

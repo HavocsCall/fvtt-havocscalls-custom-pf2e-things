@@ -1,3 +1,14 @@
+# 1.1.1
+## Added
+### Items
+#### Abilities
+- Load Alchemical Bolt
+#### Effects
+- Effect: Alchemical Bolt
+#### Equipment
+- Alchemical Crossbow
+---
+
 # 1.1.0
 ## Added
 ### Custom Tables Pack

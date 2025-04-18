@@ -37,7 +37,8 @@
         "havocscall-custom-items",
         "havocscall-custom-journals",
         "havocscall-custom-macros",
-        "havocscall-custom-scenes"
+        "havocscall-custom-scenes",
+        "havocscall-custom-tables"
       ],
       "color": null,
       "folders": []

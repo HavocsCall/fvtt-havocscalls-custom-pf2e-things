@@ -15,13 +15,17 @@ https://github.com/HavocsCall/fvtt-havocscalls-custom-pf2e-things/releases/lates
 ### Items
 #### Abilities
 - Belch Smoke
+- Load Alchemical Bolt
 #### Auras
 - Aura: Bane
 - Aura: Root Reading
 #### Effects
 - Spell Effect: Eat Fire
 - Spell Effect: Root Reading
+- Effect: Alchemical Bolt
 - Effect: Weapon Infusion
+#### Equipment
+- Alchemical Crossbow
 #### Features
 - Weapon Infusion
 ### Macros
